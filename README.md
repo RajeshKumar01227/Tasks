@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
     <style>
          table{
         border: 1px solid black;
-        width: 70%;
+        width: 100%;
         background-color: rgb(1, 1, 5);
     }
     th,td{
